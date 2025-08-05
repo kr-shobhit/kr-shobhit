@@ -1,22 +1,15 @@
-# 💫 About Me:
-Hi, I'm Shobhit , a BCA graduate from Birla Institute of Technology, Mesra with a passion for technology and software development. I'm a tech enthusiast who loves exploring new domains like AI and Blockchain.<br><br>🔭 Current Projects: Will be sharing as soon as the project completes.<br>💼 Experience: Intern at Central Coalfield Limited, Ranchi, where I engineered a responsive, mobile-optimized e-commerce platform.<br>🌱 Currently Learning: Concepts in AI and blockchain technology enhancing my skills in development.<br>🤝 Involvement: Active member of the Google Developer Student Club at BIT Mesra.<br><br>I love working on real-world problems through code, and I’m always eager to collaborate on open-source projects or innovative ideas. Feel free to connect with me!
+# 🧠 Welcome to My Brain Dump
 
+Hey, I'm Shobhit — I build things that (usually) work.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kr_shobhit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kr-shobhit) 
+This repo is a window into what I’m learning, breaking, fixing, and sometimes shipping.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<!---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kr-shobhit&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kr-shobhit&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-shobhit&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- 🛠️ Currently on: Artificial Intelligence and Cybersecurity
+- 🧪 Experimenting with: Almost Everything
+- 🌀 Believer in: Clean code, chaos engineering & coffee
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+Dive in, fork stuff, or just lurk. I’m cool with that.
 
----
-[![](https://visitcount.itsvg.in/api?id=kr-shobhit&icon=10&color=1)](https://visitcount.itsvg.in)
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "Code is poetry, except when it's not."
+
+Let's Collaborate and make things!
