@@ -4,7 +4,7 @@ Hey, I'm Shobhit — I build things that (usually) work.
 
 This repo is a window into what I’m learning, breaking, fixing, and sometimes shipping.
 
-- 🛠️ Currently on: Artificial Intelligence and Cybersecurity
+- 🛠️ Currently on: Artificial Intelligence
 - 🧪 Experimenting with: Almost Everything
 - 🌀 Believer in: Clean code, chaos engineering & coffee
 
